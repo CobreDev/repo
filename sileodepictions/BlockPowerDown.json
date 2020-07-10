@@ -1,0 +1,115 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDown.png",
+	"tintColor": "#000000",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## BlockPowerDown\nDon't want people to power down your device? Install this! It replaces the Slide To Power Off menu with a UIAlertView. This is something I made while teaching myself some ObjC and Theos stuff."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Support\nNeed help? Just email me!"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDownIRL.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDownIRL.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDownIRL.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/BlockPowerDownIRL.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "mac-user669",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/mac-user669",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 arm64e Support!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

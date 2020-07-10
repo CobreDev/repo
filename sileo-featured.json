@@ -1,0 +1,38 @@
+{
+  "class":"FeaturedBannersView",
+  "itemSize":"{263, 148}",
+  "itemCornerRadius":10,
+  "banners":
+   [
+     {
+       "url":"https://raw.githubusercontent.com/CobreDev/repo/Banners/ZenithDarkBanner.png",
+       "title":"ZenithDark",
+       "package":"com.mac-user669.zenithdark",
+       "hideShadow":false
+      },
+      {
+       "url":"https://raw.githubusercontent.com/CobreDev/repo/depictions/com.cooper.limelightred/screenshots/LimelightRed.png",
+       "title":"LimelightRed",
+       "package":"com.cobre.limelightred",
+       "hideShadow":false
+      },
+      {
+       "url":"https://raw.githubusercontent.com/CobreDev/repo/depictions/com.cooper.blockpowerdown/screenshots/BlockPowerDown.png",
+        "title":"BlockPowerDown",
+        "package":"com.cobre.blockpowerdown",
+        "hideShadow":false
+      },
+      {
+       "url":"https://raw.githubusercontent.com/CobreDev/repo/depictions/com.nnoce.split/screenshots/Split.png",
+        "title":"Split",
+        "package":"com.nnoce.split",
+        "hideShadow":false
+      },
+      {
+       "url":"https://raw.githubusercontent.com/CobreDev/repo/depictions/com.cooper.limewindows/screenshots/LimeWindows.png",
+        "title":"LimeWindows",
+        "package":"com.cobre.limewindows",
+        "hideShadow":false
+      }
+    ]
+}

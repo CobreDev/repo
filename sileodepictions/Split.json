@@ -1,0 +1,95 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
+	"tintColor": "#44ABB8",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Split\nA simple LS widget with a centered vertical bar"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/SplitPreview.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "nnoce14",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/mac-user669",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

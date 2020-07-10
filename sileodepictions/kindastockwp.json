@@ -1,0 +1,120 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://mac-user669.github.io/repo/depections/com.mac-user669.kindastockwp/screenshots/Thumbnail.png",
+	"tintColor": "#202020",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "KindaStock wallpapers for WallpaperLoader!\nThe wallpapers were created by ConorTheDev, and he let me host this."
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Dark.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Dark.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Light.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Light.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Thumbnail.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Thumbnail.png"
+						},
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Dark.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Dark.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Light.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Light.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Thumbnail.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.kindastockwp/screenshots/Thumbnail.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "mac-user669",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/mac-user669",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

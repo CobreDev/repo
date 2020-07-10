@@ -1,0 +1,122 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
+	"tintColor": "#00ff00",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## LimelightGreen\nLimelight recolored to Green. I used the files from [here](https://github.com/ramenrepo/limelight) and recolored with [these](https://github.com/ramenrepo/icon_colorizer) tools. Thanks to Ty for letting me host these!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Support\nNeed help? Just email me!"
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://forms.gle/JdcGRVRvnyEcabMH6",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightGreen.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "mac-user669",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/mac-user669",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add about 10 icons.",
+					"markdown": "\t\n\u2022 Add Sileo depictions.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Duplicate some icons.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

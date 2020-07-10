@@ -1,0 +1,250 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://mac-user669.github.io/repo/Banners/ZenithDarkBanner.png",
+	"tintColor": "#D0A400",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Dark Tabs for Zenith\nZenithDark recolors the pull tabs on Muirey03's Zenith to a dark blur!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Custom Colors!\nZenithDark has support for custom colors, using libCSColorPicker. This allows you to have the tabs whatever color you want!"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Open Source\nOpen source tweaks are a great way for newer developers (Like me!) to learn how tweaks work. All of my free tweaks are and will be open source!"
+				},
+				{
+					"title": "Check out the source code here!",
+					"action": "https://github.com/mac-user669/ZenithDark",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png",
+							"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png"
+						},
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Dark.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png",
+								"fullSizeURL": "https://mac-user669.github.io/repo/depictions/com.mac-user669.zenithdark/screenshots/Prefs.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.7",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "mac-user669",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/mac-user669",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 iOS 12 support!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Switch to libColorPicker!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add libSparkColourPicker!",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.4.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 New depiction links",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 New OLED and OLED Dark modes",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Use Cephei for Prefs UI/UX",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 iOS 12 Support",
+					"markdown": "\t\n\u2022 Tweaked Colors",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Duplicate some icons",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added Preferences, including an enable/disable switch",
+					"markdown": "\t\n\u2022 Thanks to Skitty for helping us out",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Full Release",
+					"markdown": "\t\n\u2022 now changes based on whether the system is in Light or Dark mode",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"title": "0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
