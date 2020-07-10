@@ -4,7 +4,7 @@
 Change the tab color in Muirey03's Zenith. Make them blend in, or pop out!
 
 ## Screenshots
-![Dark.png](../screenshots/ZNDark.png)
+![Dark.png](./screenshots/ZNDark.png)
 
 <!-- ![Light.png](https://cobre.dev/repo/depictions/com.mac-user669.zenithdark/screenshots/Light.png) -->
 
