@@ -16,6 +16,10 @@
         color: #894C34!important;
     }
 
+    .text-light {
+        color: #FFFFFF!important;
+    }
+
     .depiction-image {
         max-width: 100%;
         height: auto;
@@ -141,6 +145,10 @@
             background-color: #bf0000;
         }
 
+        .text-light {
+            color: #6c757d!important;
+        }
+
         .card {
             background-color: #343a40;
             color: #FFFFFF;
@@ -200,6 +208,10 @@
 
         .padding-short {
             padding: 10px 0 0px;
+        }
+
+        .py-5 {
+            padding-top: 1rem!important;
         }
 
       }

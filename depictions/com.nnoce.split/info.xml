@@ -1,0 +1,40 @@
+<package>
+	<id>com.nnoce.split</id>
+	<name>Split</name>
+	<version>1.0</version>
+
+	<dependencies>
+		<package>Snowboard or Anemone</package>
+	</dependencies>
+
+	<shortDescription>A simple LS widget with a centered vertical bar.</shortDescription>
+
+	<descriptionlist>
+		<description>A simple LS widget with a centered vertical bar.</description>
+	</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<image>SplitPreview.png</image>
+		</screenshot>		
+	</screenshots>
+
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+
+	<links>
+		<link>
+			<name>Email Me</name>
+			<url>mailto:cooper@cooperhull.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</links>
+	<links>
+		<link>
+			<name>Icon Requests</name>
+			<url>https://github.com/mac-user669/Issues/issues/new/choose</url>
+			<iconclass>fa fa-plus-square</iconclass>
+		</link>
+	</links>
+</package>
