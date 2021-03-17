@@ -1,0 +1,147 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://repo.cobre.dev/Banners/BlurHider.png",
+	"tintColor": "#C36100",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## BlurHider\nBlurHider removes background blurs from areas like App Library Categories, Dock, and Folder backgrounds."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Customizability\nWith BlurHider you can enable or disable the tweak in different areas, like having it enabled for the dock but nowhere else."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Unique UI\nThe preferences page has been painstakingly edited to become a unique, one of a kind visual interface while still fittin in with the design of iOS."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Open Source\nOpen source tweaks are a great way for newer developers (Like me!) to learn how tweaks work. All of my free tweaks are and will be open source!"
+				},
+				{
+					"title": "Check out the source code here!",
+					"action": "https://github.com/CobreDev/BlurHider",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/1.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/2.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/3.png"
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/4.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/4.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/1.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/2.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/2.png"
+							},
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/3.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/3.png"
+							},
+						    {
+	    						"accessibilityText": "Showcase",
+		    					"url": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/4.png",
+			    				"fullSizeURL": "https://raw.githubusercontent.com/CobreDev/repo/master/assets/images/BlurHider/4.png"
+				    		}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "CobreDev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Email Me",
+					"action": "mailto:cooper@cooperhull.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/CobreDev",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
