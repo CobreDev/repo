@@ -86,6 +86,10 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Compatibility\nBlurHider is compatible with all versions of iOS 14."
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},
