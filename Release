@@ -1,8 +1,8 @@
-Origin:Cobre's Repo
-Label:Cobre's Repo
+Origin: CobreDev's Repo
+Label: CobreDev's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A home forCobre's free tweaks and themes!
+Description: A home for CobreDev's free tweaks and themes!

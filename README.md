@@ -1,6 +1,6 @@
-#Cobre's Repo
+# CobreDev's Repo
 
-#### A home forCobre's iOS tweaks and themes.
+#### A home for CobreDev's iOS tweaks and themes.
 
 [Add To Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.cobre.dev/) </br>
 [Add To Sileo](sileo://source/https://repo.cobre.dev/) </br>
